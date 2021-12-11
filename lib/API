@@ -1,0 +1,3 @@
+https://newsapi.org/ --> baseurl
+v2/top-headlines? --> url
+country=us&category=business&apiKey=1920d52d24304e8da5ed7d321c68be2d --> query
